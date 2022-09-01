@@ -8,7 +8,7 @@
 
 body {
     overflow: hidden;
-    background-color: rgb(245, 245, 245);
+    background-color: #fff;
 }
 
 .demo {
@@ -110,7 +110,7 @@ body {
 
 .main--position {
     border: none;
-    height: 857px;
+    height: 875px;
     position: relative;
     top: 65px;
     left: -1.6px;
